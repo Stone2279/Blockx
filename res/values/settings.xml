@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="fps">20</integer>
+    <integer name="board_width">10</integer>
+    <integer name="board_height">18</integer>
+    <integer name="border_width">4</integer>
+</resources>

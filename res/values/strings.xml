@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlockX</string>
+    <string name="left">Links</string>
+    <string name="right">Rechts</string>
+    <string name="down">Runter</string>
+    <string name="rotateRight">Rotate</string>
+</resources>
