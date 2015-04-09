@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="background">#000000</color>
+    <color name="border">#303030</color>
+    <color name="square_blue">#BC8DBF</color>
+    <color name="square_orange">#FBAF5C</color>
+    <color name="square_yellow">#FFF467</color>
+    <color name="square_red">#F7977A</color>
+    <color name="square_green">#ACD372</color>
+    <color name="square_magenta">#998675</color>
+    <color name="square_cyan">#7BCDC8</color>
+    <color name="square_empty">#00000000</color>
+    <color name="square_error">#FFFFFF</color>
+</resources>
